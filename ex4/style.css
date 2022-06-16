@@ -1,0 +1,16 @@
+body{
+  background-color: #050000;
+}
+h1{
+  color: #53c408;
+  font-family: 'Nunito', cursive;
+  width: 35%;
+  padding: 10px 20px 20px;
+}
+p{
+  color: #08a805;
+  font-family: monospace;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 2;
+}

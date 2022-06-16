@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+
+.azul{
+  background-color: #004db3;
+}
+
+.amarelo{
+  background-color: #dee854;
+}
+
+.vermelho{
+  background-color: #eb0000;
+}
+
+button{
+  padding: 5px 10px;
+  border: 0;
+  border-radius: 20px;
+  color: #fafafa;
+  cursor: pointer; 
+  font-size: 25px;
+  font-weight: 300;
+  margin: 0 10px;
+}
+
+div.botoes{
+  position: absolute;
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  min-width: 90vw;
+  text-align: center;
+  
+}
